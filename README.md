@@ -1,8 +1,12 @@
 # bollywood-lyrics
 
-A comprehensive collection of lyrics and other metadatd for bollywood songs from 1940s. 
-Credit for the source for this collection goes to the kind souls maintaining and contributing to https://www.giitaayan.com/.
-Giitayan's data files are stored here - https://github.com/v9y/giit. 
+A comprehensive collection of lyrics and other metadata for bollywood and non-bollywod songs starting from 1940s all the way to 2000s. 
+
+## Credits 
+
+The data for this collection comes from https://www.giitaayan.com/. 
+Giitayan's data files are stored here - https://github.com/v9y/giit.
+Thanks to the maintainers and contributors of Giitayan. 
 
 ## Instructions
 
