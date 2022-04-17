@@ -1,6 +1,7 @@
 # bollywood-lyrics
 
 A comprehensive collection of lyrics and other metadata for bollywood and non-bollywod songs starting from 1940s all the way to 2000s. 
+If you are an engineering student in India and are looking for interesting project ideas using this dataset, I have listed them on this [page](project_ideas.md).
 
 ## Credits 
 
